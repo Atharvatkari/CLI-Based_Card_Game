@@ -23,3 +23,7 @@ Both implementations emphasize efficient use of data structures for performance 
 3. The player with the highest card in a round wins the trick.
 4. Play continues until all cards are used.
 
+## Input Requirements
+1. Players must input a valid card from their hand during their turn.
+2. If a player has no cards left, their turn is skipped.
+
