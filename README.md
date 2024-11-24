@@ -15,7 +15,7 @@ This is a Command-Line Interface (CLI) implementation of the popular 5-3-2 card 
 1. JavaScript: For flexible scripting and quick prototyping.
 2. Java: For robust, scalable implementation with object-oriented design.
    
-Both implementations emphasize efficient use of data structures for performance and readability.
+   Both implementations emphasize efficient use of data structures for performance and readability.
 
 ## How to Play
 1. Run the game in your terminal.
